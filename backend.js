@@ -1,12 +1,12 @@
 let a=[{
-    "myid":1,"question":"1what is full form of html",
-    "answer":"Hyper text markup language"
+    "myid":1,"question":"1what is full form of cm",
+    "answer":"Cheif minister"
     },{
-        "myid":2,"question":"2what is full form of html",
-        "answer":"Hyper text markup language"
+        "myid":2,"question":"2what is full form of pm",
+        "answer":"Prime minister"
         },{
-            "myid":3,"question":"3what is full form of html",
-            "answer":"Hyper text markup language"
+            "myid":3,"question":"3what is full form of tn",
+            "answer":"tamilnadu"
             }]
 let ans="";
 a.map((ques)=>{
